@@ -21,10 +21,30 @@ html {
     gap: 10px;
     padding-bottom: 40px;
   }
+  .Dream-heading{
+    font-size: 38px;
+  }
 }
-@media(max-width:920px){
+@media(max-width:992px){
   .interior-text{
     font-size: 45px;
+  }
+  .Dream-heading{
+    font-size: 28px;
+  }
+  .designing-dream-section{
+  flex-direction: column;
+  flex-direction: column-reverse;
+  }
+  .img2{
+    max-width:100% ;
+    margin: auto;
+      }
+  .designing-dream-section-text{
+    width: 100%;
+  }
+  .designing-dream-section-heading{
+    margin-top: 50px;
   }
 }
 @media(max-width:768px){
@@ -37,9 +57,12 @@ html {
   .text-numbers-container{
     gap: 30px;
   }
+  
 }
 @media(max-width:500px){
   .text-numbers-container{
     gap: 15px;
   }
+ 
+    
 }
