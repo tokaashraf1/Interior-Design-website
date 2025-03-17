@@ -2204,6 +2204,14 @@ video {
   padding-top: 75px;
 }
 
+.pb-\[\] {
+  padding-bottom: ;
+}
+
+.pb-\[70px\] {
+  padding-bottom: 70px;
+}
+
 .text-left {
   text-align: left;
 }
@@ -2281,8 +2289,8 @@ video {
   font-size: 30px;
 }
 
-.text-\[80px\] {
-  font-size: 80px;
+.text-\[40px\] {
+  font-size: 40px;
 }
 
 .text-lg {
@@ -2293,10 +2301,6 @@ video {
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
-}
-
-.text-\[40px\] {
-  font-size: 40px;
 }
 
 .font-bold {
