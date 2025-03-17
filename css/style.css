@@ -63,6 +63,9 @@ html {
   .text-numbers-container{
     gap: 15px;
   }
- 
+ .customers-section-text{
+  font-size: 12px;
+
+ }
     
 }
