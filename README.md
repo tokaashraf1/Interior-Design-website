@@ -1,7 +1,7 @@
 # Restaurant Website 
-This is a responsive restaurant website built with HTML, JavaScript, and Tailwind CSS. It features a menu system, a shopping cart, and a wishlist for saving favorite items..
+This is a modern and responsive Interior Design website built with HTML, JavaScript, and Tailwind CSS. It showcases beautiful designs, services, and an interactive gallery.
 ## 🔗Live Demo
-https://tokaashraf1.github.io/Restaurant-website/
+https://tokaashraf1.github.io/Interior-Design-website/
 <br>
 <br>
  ## 🚀 Website Preview
